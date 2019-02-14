@@ -1,5 +1,5 @@
 {
-    "name": "org.tonydoesathing.basic-quasar-loading-saving-vuex",
+    "name": "com.tonydoesathing.basicquasarsaving",
     "displayName": "basic-quasar-loading-saving-vuex",
     "version": "1.0.0",
     "description": "A basic app that populates vuex from saved json file and resaves the file on addition.",

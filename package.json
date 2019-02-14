@@ -1,9 +1,9 @@
 {
-  "name": "basic-quasar-loading-saving-vuex",
+  "name": "com.tonydoesathing.basicquasarsaving",
   "version": "0.0.1",
   "description": "A basic app that populates vuex from saved json file and resaves the file on addition.",
   "productName": "basic-quasar-loading-saving-vuex",
-  "cordovaId": "org.tonydoesathing.basic-quasar-loading-saving-vuex",
+  "cordovaId": "com.tonydoesathing.basicquasarsaving",
   "author": "tonydoesathing",
   "private": true,
   "scripts": {
